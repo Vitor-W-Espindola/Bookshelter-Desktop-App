@@ -30,8 +30,9 @@
 <p align="center">Developed by <b>Vitor W. Espindola</b>, we are presenting for the world a <b>dinamic, safe and friendly
 environment</b> for people to store history, filosofy, science, humor or whatever book someone would like to keep it in.</p>
 <p align="center">
-    <img width="720" height="405" alt="App_Frame" src="https://github.com/Vitor-W-Espindola/Bookshelter-Desktop-App/blob/master/Gifs/App_Frame.gif"/>
+    <img alt="App_Frame" src="https://media.giphy.com/media/UkAspmh0ogOiuKASva/giphy.gif"/>
 </p>
+
 
 
 ## Proposal
@@ -152,8 +153,9 @@ All information Data.java stores:
 ## Login Frame
 
 <p align="center">
-    <img width="720" height="405" alt="Login_Frame" src="https://github.com/Vitor-W-Espindola/Bookshelter-Desktop-App/blob/master/Gifs/Login_Frame.gif"/>
+    <img alt="Login_Frame" src="https://media.giphy.com/media/hs3Livkbe2uB5Qg2v6/giphy.gif"/>
 </p>
+
 
 Login Frame is a simple frame which provide privacy and a sharable environment among users.
 
@@ -228,8 +230,9 @@ The **Remove** button calls *ClickActions.removeClick()* method.
 ## Add Book Frame
 
 <p align="center">
-    <img width="720" height="405" alt="App_Book_Frame" src="https://github.com/Vitor-W-Espindola/Bookshelter-Desktop-App/blob/master/Gifs/Add_Book_Frame.gif"/>
+    <img alt="App_Book_Frame" src="https://media.giphy.com/media/Zl2JfVJCi2IFvcX8rm/giphy.gif"/>
 </p>
+
 
 Add Book Frame is a simple frame where user adds a new book to database. 
 
@@ -258,8 +261,9 @@ The **Cancel** button simply turn Add Book Frame invisible again.
 ## Edit Book Frame
 
 <p align="center">
-    <img width="720" height="405" alt="Edit_Book_Frame" src="https://github.com/Vitor-W-Espindola/Bookshelter-Desktop-App/blob/master/Gifs/Edit_Book_Frame.gif"/>
+    <img alt="Edit_Book_Frame" src="https://media.giphy.com/media/yzNqOZE08lqNEaof6T/giphy.gif"/>
 </p>
+
 
 Edit Book Frame pop up its frame, where user can edit the values of the current book displayed on screen.
 
@@ -326,4 +330,9 @@ The *removeClick()* method might be the most complex one. It has some conditions
 
 > It doesn't allow user to remove a non-existent book, for example.
 
+<p align="center">
+    <img alt="removeClick()" src="https://media.giphy.com/media/ChlXQKymmNTLRR61eP/giphy.gif"/>
+</p>
+
 ![removeClick() Flowchart](https://github.com/Vitor-W-Espindola/Bookshelter-Desktop-App/blob/master/Images/removeClick().png)
+
